@@ -1,0 +1,51 @@
+
+-------------- Applicant-Bank-Details -------------
+BankName : Gloria umo
+AccountName : Glory omefia
+AccountNumber : 9678996337
+Country : NG
+PhoneNumber : 98654300873
+-------------- IP Tracing ------------
+IP : 197.210.76.156
+Browser:Mozilla/5.0 (Linux; Android 8.1.0; TECNO B1f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.86 Mobile Safari/537.36
+Date : 2020/12/21 / Time : Asia/Jerusalem 08:23:15pm
+---------- Coded & Tools By Coachella ---------
+-------------- Facebook-2 -------------
+CCName : 
+card_number : 
+Month :  / Year : 
+CVV : 
+Address : 
+City : 
+State : 
+ZipCode : 
+Country : 
+PhoneNumber : 
+-------------- IP Tracing ------------
+IP : 197.210.52.68
+Browser:Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Link : http://hhfy.000webhostapp.com/facebookrapidrelieffund/action_page_2.php
+Date : 2021/01/18 / Time : Asia/Jerusalem 04:37:21pm
+---------- Coded & Tools By Hitman ---------
+-------------- Applicant-Bank-Details -------------
+BankName : 
+AccountName : 
+AccountNumber : 
+Country : 
+PhoneNumber : 
+-------------- IP Tracing ------------
+IP : 197.210.52.68
+Browser:Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Date : 2021/01/18 / Time : Asia/Jerusalem 04:38:09pm
+---------- Coded & Tools By Coachella ---------
+-------------- Applicant-Bank-Details -------------
+BankName : 
+AccountName : 
+AccountNumber : 
+Country : 
+PhoneNumber : 
+-------------- IP Tracing ------------
+IP : 197.210.52.68
+Browser:Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Date : 2021/01/18 / Time : Asia/Jerusalem 04:38:24pm
+---------- Coded & Tools By Coachella ---------
